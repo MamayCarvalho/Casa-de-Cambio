@@ -1,5 +1,8 @@
 package entities;
 
+//Desenvolvedor(a): Mayara Brandao de Carvalho.
+// Github: https://github.com/MamayCarvalho/Casa-de-Cambio
+
 public class CalculoDeCambio {
 	
 	public static final double euro = 5.38;
