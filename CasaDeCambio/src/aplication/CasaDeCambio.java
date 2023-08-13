@@ -1,5 +1,8 @@
 package aplication;
 
+//Desenvolvedor(a): Mayara Brandao de Carvalho.
+// Github: https://github.com/MamayCarvalho/Casa-de-Cambio
+
 import java.util.Scanner;
 
 import entities.CalculoDeCambio;
